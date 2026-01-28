@@ -54,13 +54,15 @@ This project supports multiple employee types and uses **interfaces and polymorp
 
 ## 📁 Project Structure
 
-`EmployeePayrollSystem/ 
+```bash
+EmployeePayrollSystem/ 
   ├── Employee.java 
   ├── PayrollCalculator.java 
   ├── FullTimeEmployee.java 
   ├── PartTimeEmployee.java 
   ├── PayrollService.java 
-  └── Main.java`
+  └── Main.java
+```
 
 ---
 
@@ -132,3 +134,4 @@ Acts as the entry point and handles user input.
     
 
 - Convert to GUI or Spring Boot application
+
