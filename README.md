@@ -54,7 +54,13 @@ This project supports multiple employee types and uses **interfaces and polymorp
 
 ## 📁 Project Structure
 
-`EmployeePayrollSystem/ │ ├── Employee.java ├── PayrollCalculator.java ├── FullTimeEmployee.java ├── PartTimeEmployee.java ├── PayrollService.java └── Main.java`
+`EmployeePayrollSystem/ 
+  ├── Employee.java 
+  ├── PayrollCalculator.java 
+  ├── FullTimeEmployee.java 
+  ├── PartTimeEmployee.java 
+  ├── PayrollService.java 
+  └── Main.java`
 
 ---
 
@@ -124,4 +130,5 @@ Acts as the entry point and handles user input.
     
 - Generate PDF payslips
     
+
 - Convert to GUI or Spring Boot application
