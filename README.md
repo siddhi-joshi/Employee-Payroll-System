@@ -118,7 +118,19 @@ Acts as the entry point and handles user input.
 
 ## 🧪 Sample Output
 
-`1. Full-Time Employee 2. Part-Time Employee Select Employee Type: 1  Enter ID: 101 Enter Name: Rahul Enter Monthly Salary: 50000  ----- PAYSLIP ----- Employee ID   : 101 Employee Name : Rahul Gross Salary  : ₹50000 Tax Deduction : ₹5000 Net Salary    : ₹45000 -------------------`
+```bash 
+1. Full-Time Employee 
+2. Part-Time Employee Select Employee Type: 1  
+Enter ID: 101 Enter Name: Rahul 
+Enter Monthly Salary: 50000  
+----- PAYSLIP ----- 
+Employee ID   : 101 
+Employee Name : Rahul 
+Gross Salary  : ₹50000 
+Tax Deduction : ₹5000 
+Net Salary    : ₹45000
+-------------------
+````
 
 ---
 
@@ -131,7 +143,7 @@ Acts as the entry point and handles user input.
 - Add different tax slabs
     
 - Generate PDF payslips
-    
 
 - Convert to GUI or Spring Boot application
+
 
